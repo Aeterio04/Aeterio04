@@ -1,30 +1,50 @@
-# hey, I'm Ojas
-
-2nd year CS @ PICT, Pune. I mostly build agentic AI systems and full-stack apps — usually for hackathons, sometimes just because the problem is interesting.
-
-Currently into: multi-agent pipelines with LangGraph, making LLMs do compliance work, and figuring out where agentic AI meets IoT.
-
----
-
-**things I reach for:**
-
-Python · LangGraph · FastAPI · PostgreSQL · React · AWS Bedrock · n8n
+```
+> whoami
+ojas sangwai — 2nd yr CS @ PICT, Pune
+building agentic AI systems, usually past midnight
+```
 
 ---
 
-**active projects:**
-
-[ValidEDI](https://github.com/Aeterio04/validedi) — healthcare EDI parser/validator, on PyPI  
-[SAR Generator](https://github.com/Aeterio04/sar-generator) — 7-agent AML pipeline (Barclays Hack-O-Hire)  
-[VolConnect](https://github.com/Aeterio04/volconnect) — volunteer + NGO coordination platform
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aeterio04&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeterio04&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" height="150"/>
-</div>
+```
+> cat interests.txt
+multi-agent pipelines · LLM infra · full-stack · IoT crossover
+```
 
 ---
 
-[linkedin](https://www.linkedin.com/in/ojas-sangwai/) · ojsangwai17@gmail.com
+```
+> ls -la ~/projects
+```
+
+| repo | what it does |
+|------|-------------|
+| [validedi](https://github.com/Aeterio04/validedi) | healthcare EDI parser + validator · published on PyPI |
+| [sar-micro](https://github.com/Aeterio04/sar-micro) | 7-agent LangGraph pipeline for AML compliance reporting |
+| [gemini-skin-coach](https://github.com/Aeterio04/gemini-skin-coach) | full React Native app · Gemini AI · FastAPI backend · RevenueCat payments · Sentry logging |
+| [walleter](https://github.com/Aeterio04/walleter) | personal finance app — not unique, just built it the way I wanted it |
+| [OOPC-Miniproject](https://github.com/Aeterio04/OOPC-Miniproject) | OOP + SOLID design patterns in C++ |
+| [volco](https://github.com/Aeterio04/Volco) | volunteer + NGO coordination platform |
+
+---
+
+```
+> cat stack.txt
+python · langgraph · fastapi · postgresql · react · react native · typescript · aws bedrock · n8n
+```
+
+---
+
+```
+> find / -name "*.achievement"
+./validedi           → COEP CSI Inspiron 2025 [WINNER]
+./sar-micro          → Barclays Hack-O-Hire 2026 [FINALIST]
+```
+
+---
+
+```
+> contact --all
+linkedin  →  linkedin.com/in/ojas-sangwai
+mail      →  ojsangwai17@gmail.com
+```
