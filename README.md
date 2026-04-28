@@ -21,9 +21,9 @@ multi-agent pipelines · LLM infra · full-stack · IoT crossover
 |------|-------------|
 | [validedi](https://github.com/Aeterio04/validedi) | healthcare EDI parser + validator · published on PyPI |
 | [sar-micro](https://github.com/Aeterio04/sar-micro) | 7-agent LangGraph pipeline for AML compliance reporting |
+| [nobias](https://github.com/Aeterio04/Nobias) | 3-module fairness auditing library · counterfactual testing · EEOC-aligned statistical detection |
 | [gembot](https://github.com/Aeterio04/GeMbot/) | full React Native app · Gemini AI · FastAPI backend · RevenueCat payments · Sentry logging |
 | [walleter](https://github.com/Aeterio04/walleter) | personal finance app — not unique, just built it the way I wanted it |
-| [OOPC-Miniproject](https://github.com/Aeterio04/OOPC-Miniproject) | OOP + SOLID design patterns in C++ |
 | [volco](https://github.com/Aeterio04/Volco) | volunteer + NGO coordination platform |
 
 ---
